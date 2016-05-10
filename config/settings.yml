@@ -2,8 +2,8 @@
 site_url: http://support.yourdomain.com # This is the URL of your support site
 
 # Toggle functionality (not fully implemented)
-tickets: true
-forums: true
+tickets: false
+forums: false
 knowledgebase: true
 
 # Site Settings (These have been moved into the admin UI and you should change them there!)
