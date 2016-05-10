@@ -1,3 +1,8 @@
+# THIS IS A FORK OF [HELPY](http://helpy.io/) FOR VESPER'S KNOWLEDGE BASE
+#### ORIGINAL DOCUMENTATION IS BELOW
+
+====================================
+
 Helpy: A Modern Helpdesk Alternative
 ====================================
 
